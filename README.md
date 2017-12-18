@@ -1,0 +1,2 @@
+# idel
+obtener experiencia 
